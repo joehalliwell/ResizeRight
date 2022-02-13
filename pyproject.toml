@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "resize_right"
+version = "0.1.0"
+description = "git@github.com:joehalliwell/ResizeRight.git"
+authors = ["Assaf Shocher"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+[tool.poetry.dev-dependencies]
+numpy = "^1.22.2"
+torch = "^1.7.1"
+torchvision = "^0.8.2"
+pytest = "^7.0.1"
+Pillow = "^9.0.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

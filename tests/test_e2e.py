@@ -11,9 +11,11 @@ from pathlib import Path
 """
 TODO:
 
-- Add source/target pairs for upscaling
-- Test different interp methods
-- Test different target sizes/aspect ratios
+- [X] Add test rig
+- [ ] Add targets from matlab
+- [ ] Add source/target pairs for upscaling
+- [ ] Test different interp methods
+- [ ] Test different target sizes/aspect ratios
 """
 
 RESOURCE_DIR = Path("tests")

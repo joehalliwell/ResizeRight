@@ -89,3 +89,13 @@ If you find our work useful in your research or publication, please cite this wo
   howpublished = {\url{https://github.com/assafshocher/ResizeRight}},
 }
 ```
+
+### Test images
+
+All test images are from the Open Images Dataset V6.
+
+#### Lobster buffet image
+
+Title: harborside intercontinental brunch lobster
+Author: [Krista](https://www.flickr.com/people/scaredykat/)
+License: [CC-BY](https://creativecommons.org/licenses/by/2.0/)
